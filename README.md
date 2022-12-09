@@ -1,0 +1,1 @@
+This is a fun test project where I generate all code for a website using Chat GPT.
